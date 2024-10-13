@@ -1,6 +1,6 @@
 # a130-8-expander
 Expander for the Doepfer A130-8 octal linear VCA eurorack module.
-Link to Modwiggler thread: [https://modwiggler.com/forum/viewtopic.php?p=4240096#p4240096](https://modwiggler.com/forum/viewtopic.php?p=4240096#p4240096)
+Link to Modwiggler thread: [https://modwiggler.com/forum/viewtopic.php?t=268533](https://modwiggler.com/forum/viewtopic.php?t=268533)
 
 ## Release 2024-10-12
 
